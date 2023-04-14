@@ -16,4 +16,6 @@ yarn install
 
 # Run the app
 yarn start
+
+# visit http://localhost:3000/
 ```
