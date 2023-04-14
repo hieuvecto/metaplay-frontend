@@ -4,7 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This app was created to get access token to run authorization required APIs on backend.
 
-# Local instructions:
+## Prerequisites
+
+- nodejs - ^16.x.x
+- yarn - ^1.22.18
+
+## Local instructions:
 
 ```sh
 yarn install
