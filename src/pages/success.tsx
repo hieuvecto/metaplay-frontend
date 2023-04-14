@@ -67,6 +67,7 @@ const Success = () => {
             <button onClick={() => signOut()}>Sign Out</button>
           </Fragment>
         )}
+        {!userData && <h1>Login Please</h1>}
       </header>
     </div>
   );
